@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at CMR Institute of Technology.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, System Designs, Ethical Hacking and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Video Editing as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
