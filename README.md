@@ -43,7 +43,7 @@
 <br/>
 
 <a href="https://github.com/arjun-khanduri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjun-khanduri&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjun-khanduri&theme=tokyonight&show_icons=true&count_private=true&hide=stars" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-khanduri&theme=tokyonight&layout=compact" />
 </a>
 
