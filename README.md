@@ -1,6 +1,8 @@
 
 <h2> Hey there! I'm Arjun.</h2>
 
+![](https://komarev.com/ghpvc/?username=arjun-khanduri&style=flat-square&label=GitHub+Profile+Views)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
@@ -52,6 +54,6 @@
 <h3> 🤝🏻 &nbsp;Connect with me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arjun-khanduri-b16866130/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arjun%20Khanduri-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:arjun99.khanduri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arjun99.khanduri@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/arjun-khanduri-b16866130/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arjun%20Khanduri-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:arjun99.khanduri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arjun99.khanduri@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
