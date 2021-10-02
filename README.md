@@ -1,14 +1,15 @@
 
 <h2> Hey there! I'm Arjun.</h2>
 
+
 ![](https://komarev.com/ghpvc/?username=arjun-khanduri&style=flat-square&label=GitHub+Profile+Views)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing efficient software solutions.
 - 🎓 &nbsp; Studying Computer Science and Engineering at CMR Institute of Technology.
-- 🌱 &nbsp; Learning more about Cloud Architecture, System Designs, Ethical Hacking and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Video Editing as a hobby.
+- 📕 &nbsp; Learning more about Cloud Architecture, System Designs and Ethical Hacking.
+- 🎥 &nbsp; Pursuing Video Editing as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -25,6 +26,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=ffcb2c)
@@ -45,8 +47,12 @@
 <br/>
 
 <a href="https://github.com/arjun-khanduri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjun-khanduri&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-khanduri&theme=tokyonight&layout=compact" />
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjun-khanduri&theme=tokyonight&show_icons=true&count_private=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-khanduri&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-khanduri&theme=tokyonight&layout=compact" />
+  </p>
+</p>
 </a>
 
 <br/>
