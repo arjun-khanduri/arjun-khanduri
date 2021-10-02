@@ -50,7 +50,7 @@
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjun-khanduri&theme=tokyonight&show_icons=true&count_private=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-khanduri&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-khanduri&theme=tokyonight&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-khanduri&theme=tokyonight&layout=compact" />
   </p>
 </p>
 </a>
