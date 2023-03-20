@@ -7,17 +7,17 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing efficient software solutions.
-- 🎓 &nbsp; Studying Computer Science and Engineering at CMR Institute of Technology.
+- 💼 &nbsp; Working as a Software Development Engineer.
 - 📕 &nbsp; Learning more about Algorithms, Cloud Architecture, System Designs and Ethical Hacking.
-- 🎥 &nbsp; Pursuing Video Editing as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![Python 3](https://img.shields.io/badge/-Python%203-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=r&logoColor=2C2285)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=9b111e)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
